@@ -1,7 +1,16 @@
+
 body
 {
-    color:darkblue;
+    color:rgb(34, 34, 34);
     text-align:center;
     font-family:"Arial";
     background-color: antiquewhite;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(172, 172, 172)
+    margin: 0 auto;
 }
