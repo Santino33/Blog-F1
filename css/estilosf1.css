@@ -24,3 +24,11 @@ body
     font-weight: bold;
     margin: 0;
 }
+#footer
+{
+    text-align: center;
+    width: auto;
+    background-color: rgb(17, 17, 17);
+    color: rgb(240, 236, 232);
+    padding: 0.1em;
+}
