@@ -33,3 +33,7 @@ body
     color: rgb(240, 236, 232);
     padding: 0.1em;
 }
+#imagen
+{
+    border-image-outset: 0.5em;
+}
